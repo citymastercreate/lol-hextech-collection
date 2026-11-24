@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=600&color=C89B3C&center=true&vCenter=true&width=1100&height=130&lines=LOL+SKIN+CHANGER+2026;LEAGUE+OF+LEGENDS+COSMETICS;ULTIMATE+%7C+PRESTIGE+%7C+EXALTED;CUSTOMIZE+YOUR+CHAMPION" alt="LoL Skin Changer 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/814f2505-6b5b-431f-821f-8eec55d0937b" />
 
 <br/>
 
